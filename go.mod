@@ -62,13 +62,13 @@ require (
 	github.com/libp2p/go-libp2p v0.14.0
 	github.com/libp2p/go-libp2p-circuit v0.4.0
 	github.com/libp2p/go-libp2p-connmgr v0.2.4
-	github.com/libp2p/go-libp2p-core v0.8.5
+	github.com/libp2p/go-libp2p-core v0.14.0
 	github.com/libp2p/go-libp2p-discovery v0.5.0
 	github.com/libp2p/go-libp2p-http v0.2.0
 	github.com/libp2p/go-libp2p-kad-dht v0.12.1
 	github.com/libp2p/go-libp2p-kbucket v0.4.7
 	github.com/libp2p/go-libp2p-loggables v0.1.0
-	github.com/libp2p/go-libp2p-mplex v0.4.1
+	github.com/libp2p/go-libp2p-mplex v0.5.0
 	github.com/libp2p/go-libp2p-noise v0.2.0
 	github.com/libp2p/go-libp2p-peerstore v0.2.7
 	github.com/libp2p/go-libp2p-pubsub v0.4.1
@@ -77,16 +77,16 @@ require (
 	github.com/libp2p/go-libp2p-record v0.1.3
 	github.com/libp2p/go-libp2p-routing-helpers v0.2.3
 	github.com/libp2p/go-libp2p-swarm v0.5.0
-	github.com/libp2p/go-libp2p-testing v0.4.0
+	github.com/libp2p/go-libp2p-testing v0.7.0
 	github.com/libp2p/go-libp2p-tls v0.1.3
 	github.com/libp2p/go-libp2p-yamux v0.5.4
 	github.com/libp2p/go-socket-activation v0.0.2
-	github.com/libp2p/go-tcp-transport v0.2.2
+	github.com/libp2p/go-tcp-transport v0.5.0
 	github.com/libp2p/go-ws-transport v0.4.0
 	github.com/lucas-clemente/quic-go v0.21.0-rc.2
 	github.com/miekg/dns v1.1.41
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/multiformats/go-multiaddr v0.3.1
+	github.com/multiformats/go-multiaddr v0.4.1
 	github.com/multiformats/go-multiaddr-dns v0.3.1
 	github.com/multiformats/go-multibase v0.0.3
 	github.com/multiformats/go-multihash v0.0.15
@@ -100,11 +100,11 @@ require (
 	github.com/whyrusleeping/tar-utils v0.0.0-20201201191210-20a61371de5b
 	go.opencensus.io v0.23.0
 	go.uber.org/fx v1.13.1
-	go.uber.org/zap v1.16.0
+	go.uber.org/zap v1.19.1
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210511113859-b0526f3d8744
+	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
 )
 
 go 1.15
